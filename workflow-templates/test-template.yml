@@ -1,4 +1,4 @@
-name: ARBC Test workflow template
+name: NNL Test workflow template
 
 on:
   push:
