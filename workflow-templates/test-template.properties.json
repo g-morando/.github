@@ -1,6 +1,6 @@
 {
-    "name": "NNL Demo WF workflow template",
-    "description": "This is a custom workflow template.",
+    "name": "Zotec Demo WF workflow template",
+    "description": "This is a custom workflow template for Zotec.",
     "iconName": "test-template-icon",
     "categories": [
         "javascript"
