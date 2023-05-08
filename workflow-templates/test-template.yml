@@ -1,4 +1,4 @@
-name: NNL Test workflow template
+name: Zotec Test workflow template
 
 on:
   push:
