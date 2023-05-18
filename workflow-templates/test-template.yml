@@ -1,4 +1,4 @@
-name: Zotec Test workflow template
+name: USCIS Test workflow template
 
 on:
   push:
