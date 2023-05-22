@@ -1,4 +1,4 @@
-name: USCIS Test workflow template
+name: Assurant Test workflow template
 
 on:
   push:
