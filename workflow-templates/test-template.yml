@@ -1,4 +1,4 @@
-name: Assurant Test workflow template
+name: StoneX Test workflow template
 
 on:
   push:
