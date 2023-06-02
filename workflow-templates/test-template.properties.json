@@ -1,6 +1,6 @@
 {
-    "name": "StoneX Demo WF workflow template",
-    "description": "This is a custom workflow template for Zotec.",
+    "name": "Delta Dental Demo WF workflow template",
+    "description": "This is a custom workflow template for Delta Dental.",
     "iconName": "test-template-icon",
     "categories": [
         "javascript"
