@@ -1,4 +1,4 @@
-name: StoneX Test workflow template
+name: Delta Dental Test workflow template
 
 on:
   push:
