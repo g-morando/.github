@@ -1,4 +1,4 @@
-name: Delta Dental Test workflow template
+name: LACMH Test workflow template
 
 on:
   push:
