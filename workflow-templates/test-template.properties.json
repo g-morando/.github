@@ -1,6 +1,6 @@
 {
-    "name": "Delta Dental Demo WF workflow template",
-    "description": "This is a custom workflow template for Delta Dental.",
+    "name": "LACMH Demo WF workflow template",
+    "description": "This is a custom workflow template for LACMH.",
     "iconName": "test-template-icon",
     "categories": [
         "javascript"
